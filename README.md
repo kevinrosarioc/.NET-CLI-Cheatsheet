@@ -130,7 +130,7 @@ dotnet list .\MyWebApi\MyWebApi.csproj reference
 
 ___
 
-Every definition and example is based on the [Microsoft Documentation]("https://docs.microsoft.com/en-us/dotnet/core/tools/").
+Every definition and example is based on the [Microsoft Documentation](https://docs.microsoft.com/en-us/dotnet/core/tools/).
 
 
 
