@@ -21,6 +21,16 @@ Configuration file creation example:
 dotnet new editorconfig
 ```
 
+## `dotnet restore`
+
+Restores the dependencies and tools of a project.
+
+Example: 
+
+```ps1
+dotnet restore .\MyWebApi\MyWebApi.csproj
+```
+
 ## `dotnet build`
 
 Builds a project and all of its dependencies into a set of binaries. The binaries include the project's code in Intermediate Language files with a .dll extension.
